@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/StarterPage.png</file>
+        <file>resources/InstructPage.png</file>
+        <file>resources/sink.png</file>
+        <file>resources/baba.png</file>
+        <file>resources/flag.png</file>
+        <file>resources/text_wall.png</file>
+        <file>resources/text_water.png</file>
+        <file>resources/text_win.png</file>
+        <file>resources/wall.png</file>
+        <file>resources/grass.png</file>
+        <file>resources/surprise.png</file>
+        <file>resources/kill.png</file>
+        <file>resources/text_flag.png</file>
+        <file>resources/text_rock.png</file>
+        <file>resources/skull.png</file>
+        <file>resources/is.png</file>
+        <file>resources/lava.png</file>
+        <file>resources/text_grass.png</file>
+        <file>resources/you.png</file>
+        <file>resources/text_baba.png</file>
+        <file>resources/rock.png</file>
+        <file>resources/stop.png</file>
+        <file>resources/push.png</file>
+        <file>resources/water.png</file>
+        <file>resources/metal.png</file>
+        <file>resources/text_lava.png</file>
+        <file>resources/background.png</file>
+        <file>resources/SaveGamePage.png</file>
+    </qresource>
+</RCC>
